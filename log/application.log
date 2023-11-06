@@ -3406,3 +3406,799 @@
 2022-12-22 05:42:47,701 [main] INFO Test Lead XX - User able to click next
 2022-12-22 05:42:47,758 [main] INFO Test Lead XX - User able to click place order
 2022-12-22 05:42:49,048 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 16:29:51,256 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 16:29:52,300 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 16:29:52,338 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 16:29:55,941 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 16:29:57,507 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 16:29:57,783 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 16:29:57,909 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 16:30:00,597 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 16:30:02,638 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 16:30:02,836 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 16:30:03,021 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 16:30:03,937 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 16:30:04,236 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 16:30:04,398 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 16:30:04,463 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 16:30:27,068 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 16:30:30,935 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 16:30:32,865 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 16:30:33,909 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 16:30:34,422 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 16:30:34,561 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 16:30:34,696 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 16:30:34,846 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 16:30:34,988 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 16:30:36,049 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 16:30:36,182 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 16:30:36,261 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 16:30:36,420 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 16:30:36,486 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 16:30:37,284 [main] INFO Test Lead XX - User able to click next
+2022-12-23 16:30:37,345 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 16:30:38,876 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 16:51:04,990 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 16:51:05,463 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 16:51:05,488 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 16:51:08,558 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 16:51:09,596 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 16:51:09,871 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 16:51:09,987 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 16:51:11,480 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 16:51:12,555 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 16:51:12,749 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 16:51:12,938 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 16:51:13,665 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 16:51:14,007 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 16:51:14,131 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 16:51:14,192 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 16:51:48,929 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 16:51:52,463 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 16:51:54,258 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 16:51:55,292 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 16:51:55,869 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 16:51:56,029 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 16:51:56,169 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 16:51:56,318 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 16:51:56,458 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 16:51:57,494 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 16:51:57,624 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 16:51:57,713 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 16:51:57,903 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 16:51:57,980 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 16:51:58,732 [main] INFO Test Lead XX - User able to click next
+2022-12-23 16:51:58,790 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 16:52:00,874 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 16:58:06,957 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 16:58:08,602 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 16:58:08,721 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 16:58:19,162 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 16:58:22,653 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 16:58:23,839 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 16:58:24,283 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 16:58:27,715 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 16:58:29,309 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 16:58:29,705 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 16:58:30,093 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 16:58:33,535 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 16:58:34,622 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 16:58:34,954 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 16:58:35,181 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 16:59:08,484 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 16:59:12,494 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 16:59:15,824 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 16:59:18,322 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 16:59:20,234 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 16:59:20,615 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 16:59:20,904 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 16:59:21,158 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 16:59:21,396 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 16:59:23,762 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 16:59:23,981 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 16:59:24,106 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 16:59:24,421 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 16:59:24,640 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 16:59:25,509 [main] INFO Test Lead XX - User able to click next
+2022-12-23 16:59:25,718 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 16:59:27,242 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 17:01:42,901 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:01:43,804 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:01:43,853 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:01:49,255 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:01:51,362 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:01:52,017 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:01:52,269 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:01:54,314 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:01:55,558 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:01:55,820 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:01:56,029 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:01:57,863 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:01:58,722 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:01:58,891 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:01:59,007 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 17:02:11,379 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 17:02:15,299 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 17:02:19,123 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 17:02:22,964 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 17:02:24,393 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 17:02:24,658 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 17:02:24,901 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 17:02:25,428 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 17:02:25,820 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 17:02:28,723 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 17:02:29,117 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 17:02:29,325 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 17:02:29,687 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 17:03:50,578 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:03:51,469 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:03:51,511 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:03:58,500 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:04:00,928 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:04:01,765 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:04:02,026 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:04:04,931 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:04:06,530 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:04:06,940 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:04:07,265 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:04:09,337 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:04:10,362 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:04:10,669 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:04:10,818 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 17:04:12,866 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 17:24:51,576 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:24:52,438 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:24:52,475 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:24:58,041 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:25:00,097 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:25:00,729 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:25:01,053 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:25:02,973 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:25:04,125 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:25:04,374 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:25:04,578 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:25:05,890 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:25:06,397 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:25:06,698 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:25:06,878 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 17:25:33,391 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 17:25:36,971 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 17:25:39,777 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 17:25:41,835 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 17:25:42,885 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 17:25:43,089 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 17:25:43,258 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 17:25:43,467 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 17:25:43,680 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 17:25:45,652 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 17:25:45,891 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 17:25:46,136 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 17:25:46,441 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 17:25:46,544 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 17:25:47,345 [main] INFO Test Lead XX - User able to click next
+2022-12-23 17:25:47,436 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 17:25:48,909 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 17:31:37,707 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:31:39,281 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:31:39,310 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:31:44,694 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:31:46,292 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:31:46,828 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:31:46,995 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:31:48,873 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:31:49,999 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:31:50,314 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:31:50,550 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:31:52,146 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:31:52,828 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:31:52,966 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:31:53,077 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 17:34:20,191 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:34:20,794 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:34:20,839 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:34:25,869 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:34:27,266 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:34:27,603 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:34:27,786 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:34:29,366 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:34:30,454 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:34:30,666 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:34:30,872 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:34:32,047 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:34:32,492 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:34:32,615 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:34:32,721 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 17:35:11,035 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 17:35:14,879 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 17:35:17,761 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 17:35:20,134 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 17:35:21,432 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 17:35:21,870 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 17:35:22,161 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 17:35:22,481 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 17:35:22,949 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 17:35:25,581 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 17:35:25,987 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 17:35:26,173 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 17:35:26,551 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 17:35:26,752 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 17:35:27,566 [main] INFO Test Lead XX - User able to click next
+2022-12-23 17:35:27,703 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 17:35:29,235 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 17:42:43,645 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:42:44,206 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:42:44,235 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:42:49,089 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:42:50,481 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:42:50,833 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:42:51,108 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:42:53,097 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:42:54,228 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:42:54,483 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:42:54,734 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:42:56,036 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:42:56,778 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:42:56,961 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:42:57,037 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 17:44:56,923 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:44:57,709 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:44:57,763 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:45:03,105 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:45:04,685 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:45:05,157 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:45:05,395 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:45:07,352 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:45:08,538 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:45:08,738 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:45:08,928 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:45:10,465 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:45:11,108 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:45:11,246 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:45:11,321 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 17:45:40,124 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 17:45:43,367 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 17:45:45,930 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 17:45:48,339 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 17:45:48,794 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 17:45:49,196 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 17:45:49,466 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 17:45:49,702 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 17:45:49,890 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 17:45:51,460 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 17:45:51,659 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 17:45:51,830 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 17:45:52,205 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 17:45:52,343 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 17:45:53,002 [main] INFO Test Lead XX - User able to click next
+2022-12-23 17:45:53,061 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 17:45:54,405 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 17:54:55,058 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:54:55,551 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:54:55,587 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:54:59,968 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:55:01,336 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:55:01,676 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:55:01,863 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:55:03,528 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:55:04,545 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:55:04,737 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:55:04,939 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:55:06,144 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:55:06,554 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:55:06,662 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:55:06,742 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 17:56:27,095 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 17:56:27,616 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 17:56:27,651 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 17:56:31,961 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 17:56:33,278 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 17:56:33,618 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 17:56:33,808 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 17:56:35,378 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 17:56:36,383 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 17:56:36,575 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 17:56:36,764 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 17:56:37,726 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 17:56:38,209 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 17:56:38,350 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 17:56:38,429 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 18:00:13,728 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 18:00:14,300 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 18:00:14,332 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 18:00:18,859 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 18:00:20,275 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 18:00:20,666 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 18:00:20,859 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 18:00:22,639 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 18:00:23,681 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 18:00:23,889 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 18:00:24,108 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 18:00:25,377 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 18:00:25,829 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 18:00:25,994 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 18:00:26,091 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 18:00:29,891 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 18:00:33,455 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 18:00:35,781 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 18:00:37,107 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 18:00:37,869 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 18:00:38,084 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 18:00:38,294 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 18:00:38,506 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 18:00:38,745 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 18:00:40,204 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 18:00:40,363 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 18:00:40,464 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 18:00:40,671 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 18:00:40,781 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 18:00:41,543 [main] INFO Test Lead XX - User able to click next
+2022-12-23 18:00:41,655 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 18:00:43,287 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 18:05:19,027 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 18:05:19,748 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 18:05:19,799 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 18:05:25,511 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 18:05:27,031 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 18:05:27,511 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 18:05:27,712 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 18:05:29,574 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 18:05:30,581 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 18:05:30,820 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 18:05:31,024 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 18:05:32,420 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 18:05:32,863 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 18:05:32,990 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 18:05:33,088 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 18:06:17,631 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 18:06:18,290 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 18:06:18,340 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 18:06:23,922 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 18:06:25,550 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 18:06:26,050 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 18:06:26,289 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 18:06:28,121 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 18:06:29,171 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 18:06:29,418 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 18:06:29,651 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 18:06:30,889 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 18:06:31,493 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 18:06:31,728 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 18:06:31,836 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 18:10:12,184 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 18:10:12,835 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 18:10:12,882 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 18:10:18,940 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 18:10:20,471 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 18:10:20,896 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 18:10:21,094 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 18:10:23,036 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 18:10:24,269 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 18:10:24,505 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 18:10:24,726 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 18:10:25,957 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 18:10:26,361 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 18:10:26,543 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 18:10:26,648 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 18:12:41,005 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 18:12:41,549 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 18:12:41,587 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 18:12:46,247 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 18:12:47,616 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 18:12:48,010 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 18:12:48,201 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 18:12:49,926 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 18:12:50,987 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 18:12:51,189 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 18:12:51,393 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 18:12:52,634 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 18:12:52,986 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 18:12:53,137 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 18:12:53,238 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 18:13:05,498 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 18:13:08,969 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 18:13:11,248 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 18:13:12,707 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 18:13:13,646 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 18:13:13,883 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 18:13:14,096 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 18:13:14,346 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 18:13:14,569 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 18:13:16,119 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 18:13:16,290 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 18:13:16,416 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 18:13:16,650 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 18:13:16,761 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 18:13:17,432 [main] INFO Test Lead XX - User able to click next
+2022-12-23 18:13:17,519 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 18:13:18,782 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 19:42:01,113 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 19:42:02,068 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 19:42:02,090 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 19:42:05,578 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 19:42:06,745 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 19:42:07,032 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 19:42:07,176 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 19:42:08,611 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 19:42:09,542 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 19:42:09,745 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 19:43:13,531 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 19:43:13,938 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 19:43:13,961 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 19:43:17,420 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 19:43:18,478 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 19:43:18,775 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 19:43:18,943 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 19:43:20,554 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 19:43:21,632 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 19:43:21,847 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 19:43:22,034 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 19:43:23,018 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 19:43:23,292 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 19:43:23,450 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 19:43:23,513 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 19:50:42,097 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 19:50:43,056 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 19:50:43,110 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 19:50:50,604 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 19:50:52,294 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 19:50:53,004 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 19:50:53,274 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 19:50:55,240 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 19:50:56,481 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 19:50:56,768 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 19:50:57,058 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 19:50:58,858 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 19:50:59,529 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 19:50:59,838 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 19:50:59,984 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 19:51:05,446 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 19:51:09,484 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 19:51:12,690 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 19:51:17,397 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 19:51:18,192 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 19:51:18,552 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 19:51:18,919 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 19:51:19,290 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 19:51:19,646 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 19:51:22,062 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 19:51:22,293 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 19:51:22,469 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 19:51:22,844 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 19:51:22,989 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 19:51:23,884 [main] INFO Test Lead XX - User able to click next
+2022-12-23 19:51:23,984 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 19:51:25,716 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 19:54:16,306 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 19:54:17,055 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 19:54:17,101 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 19:54:22,766 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 19:54:24,261 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 19:54:24,747 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 19:54:24,987 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 19:54:26,874 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 19:54:27,826 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 19:54:28,064 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 19:54:28,284 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 19:54:29,683 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 19:54:30,231 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 19:54:30,360 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 19:54:30,447 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 19:54:51,796 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 19:54:55,145 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 19:54:57,395 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 19:54:59,148 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 19:55:00,273 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 19:55:00,599 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 19:55:00,889 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 19:55:01,218 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 19:55:01,502 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 19:55:03,377 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 19:55:03,596 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 19:55:03,765 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 19:55:04,059 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 19:55:04,198 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 19:55:04,904 [main] INFO Test Lead XX - User able to click next
+2022-12-23 19:55:05,012 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 19:55:06,413 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 21:07:25,124 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 21:07:26,242 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 21:07:26,278 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 21:07:31,064 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 21:07:32,376 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 21:07:32,673 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 21:07:32,899 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 21:07:34,554 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 21:07:35,850 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 21:07:36,035 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 21:07:36,239 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 21:07:37,066 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 21:07:37,543 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 21:07:37,670 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 21:07:37,744 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 21:11:58,591 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 21:11:59,053 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 21:11:59,084 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 21:12:03,482 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 21:12:04,753 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 21:12:05,005 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 21:12:05,185 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 21:12:06,784 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 21:12:07,888 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 21:12:08,069 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 21:12:08,261 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 21:12:09,173 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 21:12:09,532 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 21:12:09,657 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 21:12:09,728 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 21:12:18,201 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 21:12:21,515 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 21:12:23,797 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 21:12:25,475 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 21:12:26,278 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 21:12:26,471 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 21:12:26,656 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 21:12:26,849 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 21:12:27,031 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 21:12:28,290 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 21:12:28,464 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 21:12:28,583 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 21:12:28,771 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 21:12:28,850 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 21:12:29,622 [main] INFO Test Lead XX - User able to click next
+2022-12-23 21:12:29,683 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 21:12:31,057 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 21:19:49,670 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 21:19:50,213 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 21:19:50,245 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 21:19:55,592 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 21:19:56,928 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 21:19:57,316 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 21:19:57,493 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 21:19:59,186 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 21:20:00,417 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 21:20:00,606 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 21:20:00,793 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 21:20:01,922 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 21:20:02,438 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 21:20:02,585 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 21:20:02,664 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 21:20:14,827 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 21:20:18,294 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 21:20:20,776 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 21:20:22,316 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 21:20:23,083 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 21:20:23,293 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 21:20:23,501 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 21:20:23,712 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 21:20:23,930 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 21:20:25,501 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 21:20:25,663 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 21:20:25,778 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 21:20:25,971 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 21:20:26,071 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 21:20:26,726 [main] INFO Test Lead XX - User able to click next
+2022-12-23 21:20:26,798 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 21:20:28,302 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-23 22:24:59,130 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-23 22:25:00,552 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-23 22:25:00,592 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-23 22:25:06,574 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-23 22:25:08,423 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-23 22:25:08,868 [main] INFO Test Lead XX - User able to enter Password
+2022-12-23 22:25:09,117 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-23 22:25:11,126 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-23 22:25:12,451 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-23 22:25:12,700 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-23 22:25:12,933 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-23 22:25:14,919 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-23 22:25:15,572 [main] INFO Test Lead XX - User able to select the size
+2022-12-23 22:25:15,739 [main] INFO Test Lead XX - User able to select the color
+2022-12-23 22:25:15,879 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-23 22:25:20,275 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-23 22:25:23,846 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-23 22:25:26,423 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-23 22:25:28,204 [main] INFO Test Lead XX - User able to add First Name
+2022-12-23 22:25:29,395 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-23 22:25:29,681 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-23 22:25:29,924 [main] INFO Test Lead XX - User able to add street name
+2022-12-23 22:25:30,174 [main] INFO Test Lead XX - User able to add city name
+2022-12-23 22:25:30,475 [main] INFO Test Lead XX - User able to Select State name
+2022-12-23 22:25:32,456 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-23 22:25:32,720 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-23 22:25:32,914 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-23 22:25:33,350 [main] INFO Test Lead XX - User able to click ship here
+2022-12-23 22:25:33,556 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-23 22:25:34,324 [main] INFO Test Lead XX - User able to click next
+2022-12-23 22:25:34,531 [main] INFO Test Lead XX - User able to click place order
+2022-12-23 22:25:36,292 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2022-12-24 04:28:44,611 [main] INFO Test Lead XX - Start Automation in chrome browser
+2022-12-24 04:28:45,587 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 04:28:45,614 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 04:28:49,354 [main] INFO Test Lead XX - User able to click on signin button
+2022-12-24 04:28:50,615 [main] INFO Test Lead XX - User able to enter UserName
+2022-12-24 04:28:50,914 [main] INFO Test Lead XX - User able to enter Password
+2022-12-24 04:28:51,052 [main] INFO Test Lead XX - User able to click on the login button
+2022-12-24 04:28:52,740 [main] INFO Test Lead XX - User able to verify thge landing page
+2022-12-24 04:28:53,917 [main] INFO Test Lead XX - User able to mouseHover the menModule
+2022-12-24 04:28:54,153 [main] INFO Test Lead XX - User able to mouseHover the Tops
+2022-12-24 04:28:54,375 [main] INFO Test Lead XX - User able to click on Jacket
+2022-12-24 04:28:55,401 [main] INFO Test Lead XX - User able to verify specific Jacket
+2022-12-24 04:28:55,663 [main] INFO Test Lead XX - User able to select the size
+2022-12-24 04:28:55,809 [main] INFO Test Lead XX - User able to select the color
+2022-12-24 04:28:55,896 [main] INFO Test Lead XX - User able to select Add to cart
+2022-12-24 04:29:11,054 [main] INFO Test Lead XX - User able to click on the shopping cart
+2022-12-24 04:29:14,206 [main] INFO Test Lead XX - User able to click on proceed to checkout
+2022-12-24 04:29:16,006 [main] INFO Test Lead XX - User able to click on New Address
+2022-12-24 04:29:17,108 [main] INFO Test Lead XX - User able to add First Name
+2022-12-24 04:29:17,709 [main] INFO Test Lead XX - User able to add Last Name
+2022-12-24 04:29:17,895 [main] INFO Test Lead XX - User able to add Company Name
+2022-12-24 04:29:18,041 [main] INFO Test Lead XX - User able to add street name
+2022-12-24 04:29:18,240 [main] INFO Test Lead XX - User able to add city name
+2022-12-24 04:29:18,408 [main] INFO Test Lead XX - User able to Select State name
+2022-12-24 04:29:19,365 [main] INFO Test Lead XX - User able to add Zip Code
+2022-12-24 04:29:19,530 [main] INFO Test Lead XX - User able to Select Country Name
+2022-12-24 04:29:19,625 [main] INFO Test Lead XX - User able to add Phone Number
+2022-12-24 04:29:19,809 [main] INFO Test Lead XX - User able to click ship here
+2022-12-24 04:29:19,908 [main] INFO Test Lead XX - User able to select Shipping Method
+2022-12-24 04:29:20,747 [main] INFO Test Lead XX - User able to click next
+2022-12-24 04:29:20,836 [main] INFO Test Lead XX - User able to click place order
+2022-12-24 04:29:22,127 [main] INFO Test Lead XX - User able to Verify Thank you Text
+2023-01-23 11:49:28,423 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-01-23 11:49:29,683 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-23 11:49:29,712 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-01-23 11:49:30,034 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+2023-01-23 11:49:30,418 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+2023-01-23 11:49:30,539 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-23 11:49:34,469 [main] INFO Test Lead XX - User able to click on signin button
+2023-01-23 11:49:35,689 [main] INFO Test Lead XX - User able to enter UserName
+2023-01-23 11:49:36,133 [main] INFO Test Lead XX - User able to enter Password
+2023-01-23 11:51:12,511 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-01-23 11:51:13,019 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-23 11:51:13,049 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-23 11:51:17,394 [main] INFO Test Lead XX - User able to click on signin button
+2023-01-23 11:51:18,714 [main] INFO Test Lead XX - User able to enter UserName
+2023-01-23 11:51:19,225 [main] INFO Test Lead XX - User able to enter Password
+2023-02-04 21:03:34,003 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-02-04 21:03:35,122 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-04 21:03:35,151 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-04 21:03:39,552 [main] INFO Test Lead XX - User able to click on signin button
+2023-02-04 21:03:40,948 [main] INFO Test Lead XX - User able to enter UserName
+2023-02-04 21:03:41,356 [main] INFO Test Lead XX - User able to enter Password
+2023-02-08 01:03:10,153 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-02-08 01:03:10,554 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-08 01:03:10,582 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-08 01:03:14,314 [main] INFO Test Lead XX - User able to click on signin button
+2023-02-08 01:03:16,961 [main] INFO Test Lead XX - User able to enter UserName
+2023-02-08 01:03:17,284 [main] INFO Test Lead XX - User able to enter Password
+2023-04-29 00:06:08,771 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-04-29 00:06:09,897 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-29 00:06:09,943 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-29 00:06:15,511 [main] INFO Test Lead XX - User able to click on signin button
+2023-04-29 00:06:17,093 [main] INFO Test Lead XX - User able to enter UserName
+2023-04-29 00:06:17,635 [main] INFO Test Lead XX - User able to enter Password
+2023-04-29 01:40:04,960 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-04-29 01:40:05,883 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-29 01:40:05,912 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-29 01:40:11,021 [main] INFO Test Lead XX - User able to click on signin button
+2023-04-29 01:40:12,510 [main] INFO Test Lead XX - User able to enter UserName
+2023-04-29 01:40:13,203 [main] INFO Test Lead XX - User able to enter Password
+2023-04-29 01:43:59,725 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-04-29 01:44:00,172 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-29 01:44:00,194 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-29 01:44:03,928 [main] INFO Test Lead XX - User able to click on signin button
+2023-04-29 01:44:05,216 [main] INFO Test Lead XX - User able to enter UserName
+2023-04-29 01:44:05,808 [main] INFO Test Lead XX - User able to enter Password
+2023-04-29 01:47:03,659 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-04-29 01:47:04,063 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-29 01:47:04,082 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-29 01:47:08,031 [main] INFO Test Lead XX - User able to click on signin button
+2023-04-29 01:47:09,348 [main] INFO Test Lead XX - User able to enter UserName
+2023-04-29 01:47:09,803 [main] INFO Test Lead XX - User able to enter Password
+2023-04-29 01:57:23,491 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-04-29 01:57:23,948 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-29 01:57:23,976 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-29 01:57:28,098 [main] INFO Test Lead XX - User able to click on signin button
+2023-04-29 01:57:29,648 [main] INFO Test Lead XX - User able to enter UserName
+2023-04-29 01:57:30,332 [main] INFO Test Lead XX - User able to enter Password
+2023-04-29 02:14:24,801 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-04-29 02:14:25,290 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-29 02:14:25,319 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-29 02:14:29,570 [main] INFO Test Lead XX - User able to click on signin button
+2023-04-29 02:14:30,989 [main] INFO Test Lead XX - User able to enter UserName
+2023-04-29 02:14:31,621 [main] INFO Test Lead XX - User able to enter Password
+2023-04-29 02:19:43,444 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-04-29 02:19:43,683 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-29 02:19:43,706 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-29 02:19:47,192 [main] INFO Test Lead XX - User able to click on signin button
+2023-04-29 02:19:48,599 [main] INFO Test Lead XX - User able to enter UserName
+2023-04-29 02:19:49,091 [main] INFO Test Lead XX - User able to enter Password
+2023-04-29 02:29:41,211 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-04-29 02:29:41,779 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-29 02:29:41,807 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-29 02:29:45,847 [main] INFO Test Lead XX - User able to click on signin button
+2023-04-29 02:29:47,452 [main] INFO Test Lead XX - User able to enter UserName
+2023-04-29 02:29:48,168 [main] INFO Test Lead XX - User able to enter Password
+2023-05-11 01:15:37,985 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-11 01:15:38,779 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-11 01:15:38,818 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-11 01:15:43,633 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-11 01:15:45,088 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-11 01:15:45,494 [main] INFO Test Lead XX - User able to enter Password
+2023-05-11 01:36:02,199 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-11 01:36:02,459 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-11 01:36:02,493 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-11 01:36:06,956 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-11 01:36:08,230 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-11 01:36:08,472 [main] INFO Test Lead XX - User able to enter Password
+2023-05-11 01:38:11,462 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-11 01:38:11,923 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-11 01:38:11,953 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-11 01:38:16,029 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-11 01:38:17,635 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-11 01:38:18,024 [main] INFO Test Lead XX - User able to enter Password
+2023-05-13 00:08:12,819 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-13 00:08:13,054 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-13 00:08:13,077 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-13 00:08:16,953 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-13 00:08:18,099 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-13 00:08:18,767 [main] INFO Test Lead XX - User able to enter Password
+2023-05-15 21:20:21,196 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-15 21:20:23,462 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-15 21:20:23,524 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-15 21:20:29,823 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-15 21:20:31,620 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-15 21:20:32,460 [main] INFO Test Lead XX - User able to enter Password
+2023-05-15 21:25:17,083 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-15 21:25:17,813 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-15 21:25:17,852 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-15 21:25:23,572 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-15 21:25:25,517 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-15 21:25:26,342 [main] INFO Test Lead XX - User able to enter Password
+2023-05-16 04:52:53,770 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-16 04:52:54,469 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 04:52:54,498 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 04:52:58,357 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-16 04:52:59,896 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-16 04:53:00,505 [main] INFO Test Lead XX - User able to enter Password
+2023-05-17 14:00:43,168 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-17 14:00:44,766 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-17 14:00:44,826 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-17 14:00:52,513 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-17 14:00:54,863 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-17 14:00:55,737 [main] INFO Test Lead XX - User able to enter Password
+2023-05-18 22:37:21,792 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-18 22:37:22,206 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-18 22:37:22,237 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-18 22:37:26,074 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-18 22:37:27,545 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-18 22:37:28,209 [main] INFO Test Lead XX - User able to enter Password
+2023-05-18 22:50:10,919 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-18 22:50:11,903 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-18 22:50:11,933 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-18 22:50:16,652 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-18 22:50:17,862 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-18 22:50:18,382 [main] INFO Test Lead XX - User able to enter Password
+2023-05-18 23:01:56,065 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-18 23:01:56,337 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-18 23:01:56,367 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-18 23:02:00,061 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-18 23:02:01,649 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-18 23:02:02,032 [main] INFO Test Lead XX - User able to enter Password
+2023-05-18 23:05:03,997 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-18 23:05:04,341 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-18 23:05:04,368 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-18 23:05:07,984 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-18 23:05:09,491 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-18 23:05:10,228 [main] INFO Test Lead XX - User able to enter Password
+2023-05-18 23:07:04,593 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-18 23:07:04,872 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-18 23:07:04,897 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-18 23:07:08,934 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-18 23:07:10,627 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-18 23:07:11,275 [main] INFO Test Lead XX - User able to enter Password
+2023-05-20 01:55:16,104 [main] INFO Test Lead XX - Start Automation in chrome browser
+2023-05-20 01:55:17,081 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-20 01:55:17,137 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\islam\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-20 01:55:21,798 [main] INFO Test Lead XX - User able to click on signin button
+2023-05-20 01:55:23,411 [main] INFO Test Lead XX - User able to enter UserName
+2023-05-20 01:55:24,170 [main] INFO Test Lead XX - User able to enter Password

@@ -34,7 +34,9 @@ public class PagefactoryLoginPurchase extends BasePage {
 	public WebElement getEnterUserName() {
 		return enterUserName;
 	}
-		@FindBy(xpath = "(//input[@type='password'])[1]")
+						////input[@name='login[password]']	
+		                
+		@FindBy(xpath = "(//input[@name='login[password]']")
 		@ CacheLookup
 		private WebElement enterPassword;
 		public WebElement getEnterPassword() {

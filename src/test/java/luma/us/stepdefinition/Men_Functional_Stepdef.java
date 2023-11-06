@@ -1,10 +1,5 @@
 package luma.us.stepdefinition;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Assert;
-
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -28,7 +23,7 @@ public class Men_Functional_Stepdef extends BasePage{
 	  //In order to highlight element the element,we can get help from JavaScriptExecutor
 	  HighLightElements.drawBorder(pf.getVerifiedlandingPageText());
 	  //In order to avoid synchronization issue we need help from the explicit wait from Selenium
-	  WaitHelper.seleniumWait(pf.getVerifiedlandingPageText(), 40);
+	  WaitHelper.seleniumWait(pf.getVerifiedlandingPageText(), 30);
 	  //In order to validate the requirement we have to use assertion, either TestNG or JUnit
 	  String actual = pf.getVerifiedlandingPageText().getText(); 
 	  //In order to verify the text we have to use either getText() or getAttribute()
@@ -39,18 +34,18 @@ public class Men_Functional_Stepdef extends BasePage{
 	public void user_should_be_able_to_select_jupiter_all_weather_trainer_jacket_from_men_module() {
 	log.info("User able to mouseHover the menModule");
 	HighLightElements.drawBorder(pf.getMenModule());
-	WaitHelper.seleniumWait(pf.getMenModule(), 40);
+	WaitHelper.seleniumWait(pf.getMenModule(), 30);
 	//In order to handle mouse hover we need help from Actions class
 	CommonUtility.mouseHover(pf.getMenModule());
 	
 	log.info("User able to mouseHover the Tops");
 	HighLightElements.drawBorder(pf.getSelectTops());
-	WaitHelper.seleniumWait(pf.getSelectTops(), 40);
+	WaitHelper.seleniumWait(pf.getSelectTops(), 30);
 	CommonUtility.mouseHover(pf.getSelectTops());
 	
 	log.info("User able to click on Jacket");
 	 HighLightElements.drawBorder(pf.getSelectJacket());
-	WaitHelper.seleniumWait(pf.getSelectJacket(), 40);
+	WaitHelper.seleniumWait(pf.getSelectJacket(), 30);
 	//In order to click the WebElement we can use Actions class. Also we can use JS executor.
 	//CommonUtility.getActionClick(pf.getSelectJacket());
 	CommonUtility.getJSClick(pf.getSelectJacket());
@@ -62,7 +57,7 @@ public class Men_Functional_Stepdef extends BasePage{
 		log.info("User able to verify specific Jacket");
 		HighLightElements.drawBorder(pf.getSelectJupiterJacket());
 		String expected = prop.getProperty("JacketName"); 
-		WaitHelper.seleniumWait(pf.getSelectJupiterJacket(), 40);
+		WaitHelper.seleniumWait(pf.getSelectJupiterJacket(), 30);
 		String actual = pf.getSelectJupiterJacket().getText(); 
 		CommonUtility.getAssert(expected,actual);
 
@@ -72,18 +67,18 @@ public class Men_Functional_Stepdef extends BasePage{
 	public void user_should_be_able_to_select_the_s_and_blue_and_then_click_on_the_add_to_cart(Integer int1) {
 		log.info("User able to select the size");
 		HighLightElements.drawBorder(pf.getSelectsize());
-		WaitHelper.seleniumWait(pf.getSelectsize(), 40);
+		WaitHelper.seleniumWait(pf.getSelectsize(), 30);
 		CommonUtility.getJSClick(pf.getSelectsize());
 		
 		log.info("User able to select the color");
 		HighLightElements.drawBorder(pf.getSelectColor());
-		WaitHelper.seleniumWait(pf.getSelectColor(), 40);
+		WaitHelper.seleniumWait(pf.getSelectColor(), 30);
 		CommonUtility.getJSClick(pf.getSelectColor());
 		
 		
 		log.info("User able to select Add to cart");
 		HighLightElements.drawBorder(pf.getAddToCart());
-		WaitHelper.seleniumWait(pf.getAddToCart(), 40);
+		WaitHelper.seleniumWait(pf.getAddToCart(), 30);
 		CommonUtility.getJSClick(pf.getAddToCart());
 	}
 		
@@ -91,7 +86,7 @@ public class Men_Functional_Stepdef extends BasePage{
 		public void user_should_be_able_to_click_on_the_cart() {
 		log.info("User able to click on the shopping cart");
 		HighLightElements.drawBorder(pf.getclickOnShoppingCart());
-		WaitHelper.seleniumWait(pf.getclickOnShoppingCart(), 40);
+		WaitHelper.seleniumWait(pf.getclickOnShoppingCart(), 30);
 		CommonUtility.getJSClick(pf.getclickOnShoppingCart());
 		
 		//---->
@@ -101,7 +96,7 @@ public class Men_Functional_Stepdef extends BasePage{
 	public void user_should_be_able_to_click_on_the_checkout() {
 		log.info("User able to click on proceed to checkout");
 		HighLightElements.drawBorder(pf.getClickProceedToCart());
-		WaitHelper.seleniumWait(pf.getClickProceedToCart(), 40);
+		WaitHelper.seleniumWait(pf.getClickProceedToCart(), 30);
 		CommonUtility.getJSClick(pf.getClickProceedToCart());
 	}
 	//-->^
@@ -109,7 +104,7 @@ public class Men_Functional_Stepdef extends BasePage{
 	public void user_should_be_able_to_enter_the_shipping_details_and_click_on_the_next() {
 		log.info("User able to click on New Address");
 		HighLightElements.drawBorder(pf.getClickNewAddress());
-		WaitHelper.seleniumWait(pf.getClickNewAddress(), 40);
+		WaitHelper.seleniumWait(pf.getClickNewAddress(), 30);
 		//CommonUtility.getActionClick(pf.getClickNewAddress());
 		CommonUtility.getJSClick(pf.getClickNewAddress());
 		
@@ -128,7 +123,7 @@ public class Men_Functional_Stepdef extends BasePage{
 
 		log.info("User able to Verify Thank you Text");
 		HighLightElements.drawBorder(pf.getVerifyText());
-		WaitHelper.seleniumWait(pf.getVerifyText(), 40);
+		WaitHelper.seleniumWait(pf.getVerifyText(), 30);
 		CommonUtility.getJSClick(pf.getVerifyText());
 		
 		//********************
